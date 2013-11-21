@@ -498,8 +498,8 @@
                 <serviceType>0</serviceType>
             </leftImgEvtData>
             <leftPrevTitle>false</leftPrevTitle>
-            <leftSideView>0</leftSideView>
-            <leftTitle></leftTitle>
+            <leftSideView>1</leftSideView>
+            <leftTitle>Back</leftTitle>
             <leftTitleEvtData>
                 <function>None</function>
                 <serviceType>0</serviceType>
@@ -1458,6 +1458,8 @@
             </evtSequence>
         </bb10_onEscape10_root>
         <bb10_softkeyMode>FORM_ADJUST_RESIZE</bb10_softkeyMode>
+        <bb10_showbottomactionbar>true</bb10_showbottomactionbar>
+        <bb10_enablepeekgesture>true</bb10_enablepeekgesture>
     </children>
     <children xsi:type="kMenuContainer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <ID></ID>
